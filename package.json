@@ -1,0 +1,15 @@
+{
+  "name": "eazy-training",
+  "version": "1.0.0",
+  "description": "hello world server with node js ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aymeric",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
